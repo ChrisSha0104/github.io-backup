@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Contact: 
+    <p>Contact:    
     ss7050@columbia.edu</p>
-    <p>Address: 
+    <p>Address:    
     70 Morningside Dr, NY 10027</p>
 
 news: true  # includes a list of news items
